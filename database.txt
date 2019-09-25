@@ -1,0 +1,11 @@
+database:
+Database name:	wordpress1
+Database username:  arman
+Database password:  yNPew0FmpVy961ZH
+Database host:	  localhost
+Table Prefix:	wpimport_
+
+dashboard:
+Username:	armanh686	
+Password:	V?K[7Gb2Cypb-:x#
+Your Email:	armanh686@gmail.com
